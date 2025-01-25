@@ -1,3 +1,8 @@
+<div align="center">
+  <img src="https://github.com/COO-Coders/.github/blob/main/COO%20-%20Banner.png" alt="COO banner">
+</div>
+
+
 # Coders Orientados a Objetos
 
 Bem-vindo ao repositório oficial da Coders Orientados a Objetos! Somos uma empresa apaixonada por criar soluções tecnológicas robustas, inovadoras e centradas nas melhores práticas de desenvolvimento.
