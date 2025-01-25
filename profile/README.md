@@ -36,5 +36,5 @@ A Coders Orientados a Objetos é formada por uma equipe de especialistas em tecn
 ## 👨‍💻 Nossa Equipe
 - [Arthur Marques dos Santos](https://github.com/arthurmarques2008): ***Desenvolvedor***
 - [Thiago Monteiro Barros](https://github.com/Thiago007-py) ***Desenvolvedor***
-- André Gonçalves da Silva ***Desenvolvedor***
+- [André Gonçalves da Silva](https://github.com/Dresilva21) ***Desenvolvedor***
 - [João Vitor Oliveira de Souza](https://github.com/JVitor44) ***Desenvolvedor***
