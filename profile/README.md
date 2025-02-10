@@ -31,7 +31,7 @@ A Coders Orientados a Objetos é formada por uma equipe de especialistas em tecn
 
 *Entre em contato conosco e venha conhecer mais sobre nossas soluções!*
 
-📧 E-mail: Coderscoo@gmail.com
+📧 E-mail: coders.COO@gmail.com
 
 ## 👨‍💻 Nossa Equipe
 - [Arthur Marques dos Santos](https://github.com/arthurmarques2008): ***Desenvolvedor***
